@@ -6,7 +6,7 @@
 **Level**: Beginner  
 **Database**: `sql_project_p2`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+This project was completed as part of my SQL learning journey, showcasing essential skills and techniques used by data analysts to explore, clean, and analyze retail sales data. It involved setting up a retail sales database, conducting exploratory data analysis (EDA), and using SQL queries to answer key business questions. This project helped build a strong foundation in SQL and reinforced practical data analysis concepts.
 
 ## Objectives
 
@@ -68,7 +68,7 @@ WHERE
 
 ### 3. Data Analysis & Findings
 
-The following SQL queries were developed to answer specific business questions:
+The following queries were created and executed by me to answer specific business questions:
 
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 ```sql
